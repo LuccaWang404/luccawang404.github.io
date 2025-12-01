@@ -23,6 +23,7 @@ menu:
   分类: /categories/ || fas fa-folder-open
   友链: /links/ || fas fa-link
   关于: /about/ || fas fa-user
+  GitHub: https://github.com/LuccaWang404/ || fab fa-github-alt
   # Home: / || fas fa-home
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
