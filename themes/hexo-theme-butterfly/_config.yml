@@ -62,10 +62,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/BACKGROUND/692d916b11af9ce9c3e8e483.ico
+favicon: https://pic1.imgdb.cn/item/692d916b11af9ce9c3e8e483.jpg
 
 avatar:
-  img: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/BACKGROUND/avatar-2025.png
+  img: https://pic1.imgdb.cn/item/692d912911af9ce9c3e8e256.png
   effect: false
 
 # Disable all banner images
@@ -75,10 +75,10 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/BACKGROUND/651eaccac458853aef44fd85.png
+index_img: https://pic1.imgdb.cn/item/651eaccac458853aef44fd85.png
 
 # The banner image of archive page
-archive_img: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/BACKGROUND/64307b2e0d2dde57775ea33a.jpg
+archive_img: https://pic1.imgdb.cn/item/64307b2e0d2dde57775ea33a.jpg
 
 # Note: tag page, not tags page
 tag_img: 
@@ -101,7 +101,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/BACKGROUND/651eaccac458853aef44fd85.png
+background: https://pic1.imgdb.cn/item/651eaccac458853aef44fd85.png
 
 cover:
   # Disable the cover or not
