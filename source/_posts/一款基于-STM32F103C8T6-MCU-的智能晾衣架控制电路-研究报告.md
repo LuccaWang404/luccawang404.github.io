@@ -10,18 +10,18 @@ tags:
 	- 研究性学习
 	- 计算机
 	- 华师一附中回忆录
-cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/11c031507658bac9ca87156a7fc6cc75.jpg
+cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/11c031507658bac9ca87156a7fc6cc75.jpg
 ---
 # 一款基于 STM32F103C8T6 MCU 的智能晾衣架控制电路</br>
 <center><b>——小组研究报告篇</b></center>
 </br>
 
 <div align="center">
-	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/Tools.svg"></img>
-	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/ESP8266EX-000000.svg"></img>
-	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/STM32F103C8T6-000000.svg"></img>
-	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/C & C++ Language-00599C.svg"></img>
-	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/OpenSource-GPLv3-00599C.svg"></img>
+	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/Tools.svg"></img>
+	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/ESP8266EX-000000.svg"></img>
+	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/STM32F103C8T6-000000.svg"></img>
+	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/C & C++ Language-00599C.svg"></img>
+	<img src="https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/OpenSource-GPLv3-00599C.svg"></img>
 </div>
 
 
@@ -95,7 +95,7 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 ### Q1. 您和您的家人在日常生活中是否受到过“下雨时人不在家，衣服在阳台上没人收”的困扰？
 
-![Q1](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/chart_01_rain_without_react.png)
+![Q1](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/chart_01_rain_without_react.png)
 
 >  选择了”是“的受访者占比超75%。
 
@@ -103,7 +103,7 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 ### Q2. 您有使用智能晾衣架（具有自动控制、远程互联、环境感知等功能的晾衣架）的需求吗？
 
-![Q2](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/chart_02_demands.png)
+![Q2](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/chart_02_demands.png)
 
 >  选择了”是“的受访者接近60%。
 
@@ -111,7 +111,7 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 ### Q3. 室外智能晾衣架可根据天气变化调整晾晒策略，如在即将下雨时自动回收衣物
 
-![Q3](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/chart_03_weather.png)
+![Q3](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/chart_03_weather.png)
 
 > 超过60%的受访者表示有该功能时”很喜欢“；然而没有该功能时受访者们的反应参差不齐，绝大多数受访者对此类功能的需求并不迫切。
 
@@ -119,7 +119,7 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 ### Q4. 室外智能晾衣架可以接入智能家居生态来联动其他智能家具
 
-![Q4](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/chart_04_IOT.png)
+![Q4](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/chart_04_IOT.png)
 
 > 本题中大多数受访者对没有对此类功能的反应为”无所谓“，没有此方面的迫切需求。
 
@@ -129,7 +129,7 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 ### Q5. 室外智能晾衣架可手机或遥控进行智能远程控制
 
-![Q5](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/chart_05_remote_control.png)
+![Q5](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/chart_05_remote_control.png)
 
 > 本题中大多数受访者能够接受没有这类功能，但我们注意到有超过1/4的受访者很不喜欢没有这类功能
 
@@ -137,7 +137,7 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 ### Q6*. 室外智能晾衣架的材料耐久度高，结构稳固
 
-![Q6](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/chart_06_durability.png)
+![Q6](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/chart_06_durability.png)
 
 > 大多数受访者认为晾衣架必须坚固耐用
 
@@ -145,7 +145,7 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 ### Q7*. 室外智能晾衣架有更稳定的衣夹子或不易让三角衣架脱落的挂孔，以避免衣物掉落
 
-![Q7](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/chart_07_clips.png)
+![Q7](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/chart_07_clips.png)
 
 > 本题数据与Q6完全一致。大多数受访者认为晾衣架必须要有防止衣物脱落的的功能
 
@@ -153,9 +153,9 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 ### ~~Q8*. 您认为智能晾衣架还应该具备哪些功能？~~
 
-![WTF](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/WTF.png)
+![WTF](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/WTF.png)
 
-![WTF2](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/WTF2.png)
+![WTF2](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/WTF2.png)
 
 ~~这都是些啥玩意儿啊？？？~~
 
@@ -205,7 +205,7 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 附STM32芯片示意图（来自CubeMX）：
 
-![chip](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/stm32_chip.png)
+![chip](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/stm32_chip.png)
 
 #### 2). C / C++
 
@@ -215,11 +215,11 @@ cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luc
 
 DHT11是一款有已校准数字信号输出的温湿度传感器。 其精度湿度±5%RH， 温度±2℃，量程湿度5~95%RH， 温度-20~+60℃。
 
-![DHT11](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/DHT11.png)
+![DHT11](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/DHT11.png)
 
 上图：DHT11传感器实物图
 
-![](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/dht11.jpg)
+![](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/dht11.jpg)
 
 上图：DHT11原理图
 
@@ -229,11 +229,11 @@ GY-302(A.K.A. BH1750FVI)， 是一种用于两线式串行总线接口的数字�
 
 该集成电路内部由光敏二极管、运算放大器、ADC采集、晶振等组成。PD二极管通过光生伏特效应将输入光信号转换成电信号，经运算放大电路放大后，由ADC采集电压，然后通过逻辑电路转换成16位二进制数存储在内部的寄存器中（光照越强，光电流越大，电压就越大）。
 
-![GY-302-1](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/gy-302.png)
+![GY-302-1](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/gy-302.png)
 
 上图：GY-302传感器实物图
 
-![GY-302-2](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/gy-302-02.png)
+![GY-302-2](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/gy-302-02.png)
 
 上图：GY-302传感器原理图
 
@@ -290,15 +290,15 @@ GY-302(A.K.A. BH1750FVI)， 是一种用于两线式串行总线接口的数字�
 
 查阅资料，我们得到了STM32F103 MCU的引脚图：
 
-![STM32_MCU](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/MCU_PINS.png)
+![STM32_MCU](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/MCU_PINS.png)
 
 以及各引脚功能对照表：
 
-![PIN_01](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/PIN_01.png)
+![PIN_01](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/PIN_01.png)
 
-![PIN_02](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/PIN_02.png)
+![PIN_02](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/PIN_02.png)
 
-![PIN_03](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/PIN_03.png)
+![PIN_03](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/PIN_03.png)
 
 查阅分析后，我们讨论出了这样的线路连接方案：
 
@@ -643,7 +643,7 @@ void loop() {
 
 > A: 请参考以下亮度对照表。查阅可知白天光照阈值约为15 lux。
 >
-> ![Lux](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/light.png)
+> ![Lux](https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-04/light.png)
 
 #### Q5. 下雪了怎么办？
 
