@@ -1,7 +1,7 @@
 ---
 title: Windows编译Tengine Web Server心得
 date: 2025-12-01 20:14:18
-cover: https://gh.404cafe.fun/https://raw.githubusercontent.com/LuccaWang404/luccawang404.github.io/refs/heads/img/IMG/2025-12-01/651e9f7cc458853aef3f17ad.webp
+cover: https://pic1.imgdb.cn/item/651e9f7cc458853aef3f17ad.webp
 tags: 
 	- Web
 	- Tengine 
