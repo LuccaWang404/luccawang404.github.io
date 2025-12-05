@@ -1,7 +1,7 @@
 ---
 title: Windows编译Tengine Web Server心得
 date: 2025-12-01 20:14:18
-cover: https://gcore.jsdelivr.net/gh/LuccaWang404/luccawang404.github.io@refs/heads/img/IMG/2025/651e9f7cc458853aef3f17ad.png
+cover: https://cdn.jsdelivr.net/gh/LuccaWang404/luccawang404.github.io@refs/heads/img/IMG/2025/651e9f7cc458853aef3f17ad.png
 tags: 
 	- Web
 	- Tengine 
@@ -24,7 +24,7 @@ tags:
 
 Windows平台上有一神器，唤作**msys2**。
 
-![msys2命令行窗口](https://gcore.jsdelivr.net/gh/LuccaWang404/luccawang404.github.io@refs/heads/img/IMG/2025-12-01/651ec402c458853aef503367.png)
+![msys2命令行窗口](https://cdn.jsdelivr.net/gh/LuccaWang404/luccawang404.github.io@refs/heads/img/IMG/2025-12-01/651ec402c458853aef503367.png)
 
 该工具提供了一个类Linux编译环境及海量工具集，让我们可以方便快捷地在Windows平台上将各种源代码编译为exe二进制可执行文件。
 **因此，我们可以以此为媒介，将Tengine顺利地移植到Windows平台上。**
@@ -146,10 +146,10 @@ make
 
 **最后的Tengine工作目录应该像这样：**
 
-![完成辣](https://gcore.jsdelivr.net/gh/LuccaWang404/luccawang404.github.io@refs/heads/img/IMG/2025-12-01/651ec402c458853aef50334b.png)
+![完成辣](https://cdn.jsdelivr.net/gh/LuccaWang404/luccawang404.github.io@refs/heads/img/IMG/2025-12-01/651ec402c458853aef50334b.png)
 **服务器发出的响应头应该是这样：**
 
-![响应](https://gcore.jsdelivr.net/gh/LuccaWang404/luccawang404.github.io@refs/heads/img/IMG/2025-12-01/651ec402c458853aef5032fb.png)
+![响应](https://cdn.jsdelivr.net/gh/LuccaWang404/luccawang404.github.io@refs/heads/img/IMG/2025-12-01/651ec402c458853aef5032fb.png)
 
 如果一样，恭喜你，你已经将Tengine成功移植到了Windows平台上！
 
